@@ -1,0 +1,123 @@
+@import url("https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  overflow: hidden;
+}
+
+nav {
+  display: flex;
+  font-size: 18px;
+  margin-top: -23px;
+  margin-right: 10px;
+  float: right;
+}
+
+nav a {
+  padding-right: 15px;
+  text-decoration: none;
+  color: black;
+}
+
+nav a:hover {
+  opacity: 50%;
+}
+
+#head {
+  font-size: 22px;
+  width: 100px;
+  margin-left: 20px;
+  margin-top: 10px;
+  text-decoration: none;
+  color: black;
+}
+
+.wrap {
+  margin-top: 20px;
+}
+
+.art {
+  display: flex;
+  margin-left: 100px;
+  margin-top: 150px;
+}
+
+.art img {
+  height: 550px;
+  max-width: auto;
+}
+
+.pic{
+  padding-top: 120px;
+  padding-bottom: 100px;
+  padding-left: 120px;
+}
+
+.pic img{
+  position: fixed;
+  height: 550px;
+  max-width: auto;
+}
+
+.texts {
+  width: 500px;
+  padding-right: 90px;
+  float: right;
+  margin-top: -160px;
+}
+
+.description{
+  font-size: 15px;
+  color: grey;
+}
+
+#thick {
+  font-size: 55;
+}
+
+.three{
+  padding-top: 150px;
+}
+
+.four{
+  padding-top: 90px;
+}
+
+.five{
+  padding-top: 80px;
+}
+
+#a{
+  padding-top: 20px;
+  padding-right: 50px;
+}
+
+#a img{
+  position: fixed;
+  height: 500px;
+  max-width: auto;
+}
+
+
+.word{
+  padding-right: 80px;
+  float: right;
+  margin-top: -160px;
+}
+
+.seven{
+  padding-top: 100px;
+}
+
+.writing{
+  width: 500px;
+  padding-right: 20px;
+  float: right;
+  margin-top: -160px;
+}
+
+.info {
+  display: flex;
+  float: left;
+  margin-top: -680px;
+}
